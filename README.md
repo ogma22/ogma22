@@ -5,6 +5,9 @@ I am starting to build my portfolio as a data scientist, although I am a junior 
 You can find me at 
 
 https://dianagarcia.me
+
+and 
+
 https://www.linkedin.com/in/dianagarciaproyectos/
 
 <!--
